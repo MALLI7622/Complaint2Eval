@@ -1,0 +1,6 @@
+{
+  "name": "Complaint2Eval",
+  "description": "Convert user complaints and LLM correction dialogues into structured, high-quality evaluation criteria and JSON configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
